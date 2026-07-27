@@ -5,7 +5,6 @@ public class KalkulatorLuas {
     }
 
     public static void main(String[] args) {
-        // Membuat objek dari class KalkulatorLuas
         KalkulatorLuas kalkulator = new KalkulatorLuas();
 
         int panjang = 10;
